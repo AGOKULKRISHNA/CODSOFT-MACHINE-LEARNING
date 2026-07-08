@@ -8,6 +8,7 @@ After training, the models are used to predict the classes of the test dataset. 
 
 *Model Performance*
 Random Forest Classifier Accuracy: 99.76%
+
 Decision Tree Classifier Accuracy: 99.54%
 
 To better understand the prediction results, the project visualizes the Confusion Matrix, highlighting the number of correctly and incorrectly classified fraudulent and legitimate transactions.
