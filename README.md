@@ -146,7 +146,7 @@ During this internship, I gained practical experience in:
 
 **A Gokul Krishna**
 
-📧 Email: *Add your email here*
+📧 Email: *juug24bcait44162@jainuniversity.ac.in*
 
 🔗 GitHub: https://github.com/AGOKULKRISHNA
 
