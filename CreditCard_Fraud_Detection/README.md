@@ -1,4 +1,4 @@
-Credit Card Fraud Detection using Machine Learning
+*Credit Card Fraud Detection using Machine Learning*
 
 This project focuses on detecting fraudulent credit card transactions using supervised machine learning techniques. It implements Random Forest Classifier and Decision Tree Classifier to classify transactions as either legitimate or fraudulent based on historical transaction data.
 
